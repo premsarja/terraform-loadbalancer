@@ -1,0 +1,4 @@
+vpc:
+    source:  https://github.com/premsarja/tf-module-alb.git
+    version: "main"
+
